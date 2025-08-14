@@ -24,7 +24,7 @@ This repository contains a Jupyter Notebook for analyzing e-commerce transaction
 
 ## Dataset
 - **Source:** [E-commerce Business Transaction Dataset on Kaggle](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
-- Contains UK-based online retail transactions for one year.
+- Contains UK-based online retail transactions for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
 - **Schema:** `TransactionNo`, `Date`, `ProductNo`, `Product`, `Price`, `Quantity`, `CustomerNo`, `Country`
 - **Notes:**
   - `Quantity < 0` indicates returns/cancellations (often prefixed with `C` in `TransactionNo`).
